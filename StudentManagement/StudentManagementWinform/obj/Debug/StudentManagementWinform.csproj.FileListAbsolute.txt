@@ -1,0 +1,16 @@
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\bin\Debug\StudentManagementWinform.exe.config
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\bin\Debug\StudentManagementWinform.exe
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\bin\Debug\StudentManagementWinform.pdb
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.csprojAssemblyReference.cache
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.FormLogin.resources
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.Properties.Resources.resources
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.csproj.GenerateResource.cache
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.csproj.CoreCompileInputs.cache
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.exe
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.pdb
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.FormManagement.resources
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.StudentAdd.resources
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.SubjectAdd.resources
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.SubjectModify.resources
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.FormAdmin.resources
+F:\5-2021-Spring\C# and .Net\Assignment\StudentManagementWinform\StudentManagementWinform\obj\Debug\StudentManagementWinform.SubjectDetail.resources
